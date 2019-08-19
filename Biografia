@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+
+<html lang ="pt-br">
+<font size="4" color="white">
+<head>
+	<meta charset="utf-8"/>
+	<title>   ABOUT ME  </title>
+
+</head>
+<body bgcolor="#086A87">
+
+<p> 
+<center> <font size="5" color="white"> ABOUT ME </font> </center> </a>
+</p>
+
+<p> 
+
+<br> <br> 
+<b> Dados pessoais: </b> <br> <br>
+<font size ="4" color="white">
+Nome: Rodrigo Barsotti Pereira Pinto Oberhuber <br>
+
+Data de nascimento: 22/07/2000 <br>
+Cidade natal: São Paulo - SP <br>
+CPF: 484.097.838-78 <br>
+Nome da mãe: Jacqueline Barsotti Oberhuber
+</font>
+</p>
+
+<p> <br> <br> <b> Biografia: </b> 
+
+<br> <br> Meu nome é Rodrigo, nascido em São Paulo - SP no dia 22 de julho de 2000, filho de Jacqueline e Gilberto. Morei em São Paulo até meus 6 anos de idade, onde me mudei para Hortolândia - SP, cidade que integra a Região Metropolitana de Campinas. Voltei para São Paulo e moro no PQ. Jabaquara, Zona Sul da cidade.
+</p>
+
+<p>
+<br> <br> <b> Formação Acadêmica: </b> <br> <br> Me formei no ensino integral da ETEC de Hortolândia com formação técnica em informática. Iniciei o curso de Ciências com posterior habilitação em Biologia na Universidade Federal de São Paulo. Tranquei a matrícula e comecei o curso de Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo, onde me encontro atualmente.
+</p>
+
+<p> 
+<br> <br> <b> Carreira Profissional: </b> <br> <br> Trabalho na empresa Consistec Controles e Sistemas de Automação, onde comecei como aprendiz administrativo, e hoje atuo no setor de Tecnologia da Informação, desde infraestrutura, até o desenvolvimento de relatórios em SQL.
+</p>
+
+<p>
+<br> <br> <b> Redes Sociais: </b> <br> <br> 
+<a href="facebook.com"> Facebook <br> </a>
+<a href="facebook.com"> Instagram </a>
+</font>
+</html>
