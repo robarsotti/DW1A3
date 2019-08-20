@@ -1,0 +1,40 @@
+<!DOCTYPE HTML>
+
+    <html lang="pt-br">
+    
+        <head> 
+            <meta charset="utf-8"/>
+
+            <title> Biografia </title> 
+            <link rel="icon" href="icon.png">
+            <link rel="stylesheet" href="site.css">
+        </head>
+
+        <body>
+            <p style="color:firebrick">
+            <h1> <strong> SOBRE MIM </strong> </h1>
+                <p> Nome: Rodrigo Barsotti Pereira Pinto Oberhuber <br>
+                    Data de nascimento: 22/07/2000 <br>
+                    Cidade natal: São Paulo - SP <br>
+                    CPF: 484.097.838-78 <br>
+                    Nome da mãe: Jacqueline Barsotti Oberhuber <br> <br>
+
+                    Meu nome é Rodrigo, nascido em São Paulo - SP no dia 22 de julho de 2000, filho de Jacqueline e Gilberto. Morei em São Paulo até meus 6 anos de idade, quando me mudei para Hortolândia - SP, cidade que integra a Região Metropolitana de Campinas. Voltei para São Paulo e moro no PQ. Jabaquara, Zona Sul da cidade.
+                </p>
+
+            <h2> <strong> COMO TRABALHO </strong> </h2>
+                <p> Trabalho na empresa <em> Consistec Controles e Sistemas de Automação </em>, onde comecei como aprendiz administrativo, e hoje atuo no setor de Tecnologia da Informação, desde infraestrutura, até o desenvolvimento de relatórios em SQL.
+                </p>
+
+            <h3> EXPERIÊNCIAS PROFISSIONAIS </h3>
+                <p> Trabalhei como Entregador de Esfirras pro <em> Gil da Isfirra </em> <br>
+                Nos Siga nas <em> Redes midiáticas </em> em <a href="http://facebook.com" target="blanck"> FACE</a>
+                </p>
+            
+            <img src="download.jpg" alt="Foto do aluno">
+            Foto do aluno
+            
+    </html>
+
+
+            
