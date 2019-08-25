@@ -1,0 +1,27 @@
+h1 {
+    background-color: red;
+    color: white;
+    font-family: "Arial";
+    text-align: center;
+}
+
+h2  {
+    background-color: red;
+    color:white;
+    font-family: "Arial";
+    text-align: center;
+}
+
+h3 {
+    background-color: red;
+    color: white;
+    font-family: "Arial";
+    text-align: center;
+}
+
+body {
+
+    background-color: black;
+    color: white;
+    text-align: justify
+}
