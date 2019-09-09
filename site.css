@@ -25,3 +25,28 @@ body {
     color: white;
     text-align: justify
 }
+
+aside {
+    background-color: brown;
+    padding: 15px;
+}
+
+titulo {
+
+    background-color: brown;
+    color: white;
+    text-align: justify
+}
+
+navbar-cont li {
+    display: flex;
+    margin-right: 20px;
+    margin-top: 20px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+footer {
+    background-color: brown;
+    padding: 15px;
+}
